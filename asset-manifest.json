@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/main.2c573670.chunk.js",
-    "main.js.map": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/main.2c573670.chunk.js.map",
-    "runtime-main.js": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/runtime-main.2cd56c07.js",
-    "runtime-main.js.map": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/runtime-main.2cd56c07.js.map",
-    "static/css/2.69121389.chunk.css": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/css/2.69121389.chunk.css",
-    "static/js/2.bf9115e0.chunk.js": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/2.bf9115e0.chunk.js",
-    "static/js/2.bf9115e0.chunk.js.map": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/2.bf9115e0.chunk.js.map",
-    "index.html": "/hananhanafi/WEB3B-15107-HANAN-UTS/index.html",
-    "precache-manifest.06f85be06298bfe481305ff2ccbfcae7.js": "/hananhanafi/WEB3B-15107-HANAN-UTS/precache-manifest.06f85be06298bfe481305ff2ccbfcae7.js",
-    "service-worker.js": "/hananhanafi/WEB3B-15107-HANAN-UTS/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/css/2.69121389.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bf9115e0.chunk.js.LICENSE.txt": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/2.bf9115e0.chunk.js.LICENSE.txt"
+    "main.css": "/WEB3B-15107-HANAN-UTS/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/WEB3B-15107-HANAN-UTS/static/js/main.449a29ef.chunk.js",
+    "main.js.map": "/WEB3B-15107-HANAN-UTS/static/js/main.449a29ef.chunk.js.map",
+    "runtime-main.js": "/WEB3B-15107-HANAN-UTS/static/js/runtime-main.bc46f062.js",
+    "runtime-main.js.map": "/WEB3B-15107-HANAN-UTS/static/js/runtime-main.bc46f062.js.map",
+    "static/css/2.69121389.chunk.css": "/WEB3B-15107-HANAN-UTS/static/css/2.69121389.chunk.css",
+    "static/js/2.bf9115e0.chunk.js": "/WEB3B-15107-HANAN-UTS/static/js/2.bf9115e0.chunk.js",
+    "static/js/2.bf9115e0.chunk.js.map": "/WEB3B-15107-HANAN-UTS/static/js/2.bf9115e0.chunk.js.map",
+    "index.html": "/WEB3B-15107-HANAN-UTS/index.html",
+    "precache-manifest.2ef056b48647a11194e05993b0f87fa3.js": "/WEB3B-15107-HANAN-UTS/precache-manifest.2ef056b48647a11194e05993b0f87fa3.js",
+    "service-worker.js": "/WEB3B-15107-HANAN-UTS/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/WEB3B-15107-HANAN-UTS/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/WEB3B-15107-HANAN-UTS/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bf9115e0.chunk.js.LICENSE.txt": "/WEB3B-15107-HANAN-UTS/static/js/2.bf9115e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cd56c07.js",
+    "static/js/runtime-main.bc46f062.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.bf9115e0.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.2c573670.chunk.js"
+    "static/js/main.449a29ef.chunk.js"
   ]
 }
