@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e67fc8a40240089a957b492b66312dc1",
+    "revision": "bbb14ed083a3ffccc2c2a51708a6daff",
     "url": "/hananhanafi/WEB3B-15107-HANAN-UTS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "393fb81ea8f070d11131",
+    "revision": "5c0d1e6f069773ee1305",
     "url": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/2.bf9115e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "393fb81ea8f070d11131",
-    "url": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/main.52450cf4.chunk.js"
+    "revision": "5c0d1e6f069773ee1305",
+    "url": "/hananhanafi/WEB3B-15107-HANAN-UTS/static/js/main.2c573670.chunk.js"
   },
   {
     "revision": "cb1596e94ec7578a2c91",
